@@ -1,0 +1,8 @@
+# Ignore the following files
+seed.sql
+
+.branches
+
+.temp
+
+.DS_Store
